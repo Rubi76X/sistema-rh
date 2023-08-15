@@ -1,0 +1,19 @@
+.btn{
+  .btn-inner--icon{
+    margin-right: 4px;
+  }
+}
+.btn + .btn {
+  margin-left: 4px;
+}
+
+.prueba-css{
+  color: red;
+}
+tr{
+  .prueba-cssb{
+    color: red !important;
+    font-size: 3rem;
+  }
+}
+
